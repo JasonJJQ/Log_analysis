@@ -1,0 +1,1395 @@
+﻿2025/01/04 14:26:29.726>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.791>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.838>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.882>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.915>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.958>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:29.998>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.032>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.063>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.097>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.143>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.195>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.235>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.283>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.331>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.369>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.404>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.435>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.463>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.506>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.555>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.600>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.644>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.678>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.733>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.764>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.797>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.831>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.871>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.904>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.954>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:30.987>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.029>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.070>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.117>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.152>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.185>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.242>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.283>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.337>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.398>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.432>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.459>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.487>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.519>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.552>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.585>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.618>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.664>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.693>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.721>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.754>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.787>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.837>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.870>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.900>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.928>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.958>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:31.987>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.039>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.100>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.144>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.182>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.211>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.254>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.289>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.320>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.356>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.414>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.460>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.509>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.552>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.601>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.632>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.676>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.708>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.769>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.818>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.849>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.893>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.935>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:32.980>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.023>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.058>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.095>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.128>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.161>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.192>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.242>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.274>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.326>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.368>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.415>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.463>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.507>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.540>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.567>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.596>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.627>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.660>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.692>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.723>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.754>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.788>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.825>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.879>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.938>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:33.971>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.006>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.050>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.096>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.131>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.163>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.196>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.244>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.290>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.327>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.386>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.419>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.449>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.485>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.519>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.547>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.589>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.621>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.661>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.692>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.740>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.801>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.836>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.883>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.913>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.948>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:34.988>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.019>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.077>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.131>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.176>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.213>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.248>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.292>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.334>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.381>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.415>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.449>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.483>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.511>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.552>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.601>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.646>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.676>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.724>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.769>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.818>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.854>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.900>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.931>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:35.963>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.008>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.053>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.082>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.108>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.156>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.190>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.219>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.246>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.288>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.319>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.345>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.389>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.422>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.455>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.492>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.526>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.562>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.593>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.626>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.659>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.687>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.715>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.767>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.796>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.833>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.878>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.934>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.963>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:36.995>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.036>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.097>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.131>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.165>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.206>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.245>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.301>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.340>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.381>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.434>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.476>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.520>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.553>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.583>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.612>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.641>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.670>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.700>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.740>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.769>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.811>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.864>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.915>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.960>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:37.998>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.032>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.075>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.128>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.182>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.217>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.248>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.281>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.327>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.380>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.423>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.467>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.508>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.554>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.590>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.617>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.662>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.696>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.733>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.764>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.797>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.831>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.862>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.892>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.921>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.961>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:38.995>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.042>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.092>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.132>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.169>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.209>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.270>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.322>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.358>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.395>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.444>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.487>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.537>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.571>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.611>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.641>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.674>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.708>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.755>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.792>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.835>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.889>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:26:39.951>>   在 Opc.Ua.ClientBase.ValidateResponse(ResponseHeader header)
+   在 Opc.Ua.SessionClient.Read(RequestHeader requestHeader, Double maxAge, TimestampsToReturn timestampsToReturn, ReadValueIdCollection nodesToRead, DataValueCollection& results, DiagnosticInfoCollection& diagnosticInfos)
+   在 OpcUaHelper.OpcUaClient.ReadNode(NodeId nodeId)
+   在 OpcUaHelper.OpcUaClient.ReadNode[T](String tag)
+   在 PointCloudProject.MainForm.<<Auto_Start>b__26_0>d.MoveNext() 位置 C:\Camera\deploy_ui\PointCloudProject\MainForm.cs:行号 318
+2025/01/04 14:35:42.836>>25kg连接OPC
+2025/01/04 14:35:42.936>>初始化计算环境
+2025/01/04 14:35:42.938>>调用计算单元
+2025/01/04 14:35:43.014>>Auto_Connect: CRX-25iA Connection to the device was Successful
+2025/01/04 14:35:56.179>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 14:35:56.228>>执行TRA_Scan
+2025/01/04 14:35:56.588>>相机触发拍照完成！
+2025/01/04 14:36:03.382>>点云初始数据存储完成！
+2025/01/04 14:36:04.818>>后端计算错误0
+2025/01/04 14:36:04.904>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+0	0	0	0	0	0	0	0	0
+2025/01/04 14:52:08.766>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 14:52:08.815>>执行TRA_Scan
+2025/01/04 14:52:09.171>>相机触发拍照完成！
+2025/01/04 14:52:16.049>>点云初始数据存储完成！
+2025/01/04 14:52:19.872>>后端计算正常0
+2025/01/04 14:52:19.919>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+4.580579	1.689735	3.164629	391.5806	0.6897352	-196.8354	0.1681273	0.4504122	0.2395323
+2025/01/04 14:53:41.264>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 14:53:41.313>>执行TRA_Scan
+2025/01/04 14:53:41.599>>相机触发拍照完成！
+2025/01/04 14:53:48.389>>点云初始数据存储完成！
+2025/01/04 14:53:52.943>>后端计算正常0
+2025/01/04 14:53:53.017>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+1.102497	-1.227618	4.971338	388.1025	-2.227618	-195.0287	-0.01275591	0.3383606	0.6383253
+2025/01/04 14:55:11.360>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 14:55:11.409>>执行TRA_Scan
+2025/01/04 14:55:11.702>>相机触发拍照完成！
+2025/01/04 14:55:18.192>>点云初始数据存储完成！
+2025/01/04 14:55:22.714>>后端计算正常0
+2025/01/04 14:55:22.763>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-5.812281	20.36982	5.877251	381.1877	19.36982	-194.1227	-0.1351517	0.003892161	-0.03257333
+2025/01/04 14:56:38.913>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 14:56:38.961>>执行TRA_Scan
+2025/01/04 14:56:39.232>>相机触发拍照完成！
+2025/01/04 14:56:45.557>>点云初始数据存储完成！
+2025/01/04 14:56:50.039>>后端计算正常0
+2025/01/04 14:56:50.080>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-10.76427	-4.683497	5.355555	376.2357	-5.683497	-194.6444	-0.7927214	-0.03088378	0.7443981
+2025/01/04 15:02:55.259>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:02:55.308>>执行TRA_Scan
+2025/01/04 15:02:55.596>>相机触发拍照完成！
+2025/01/04 15:03:02.123>>点云初始数据存储完成！
+2025/01/04 15:03:06.292>>后端计算正常0
+2025/01/04 15:03:06.362>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+4.613677	1.263066	3.149524	391.6137	0.2630663	-196.8505	0.2840069	0.4492594	0.2407042
+2025/01/04 15:04:28.808>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:04:28.857>>执行TRA_Scan
+2025/01/04 15:04:29.130>>相机触发拍照完成！
+2025/01/04 15:04:34.961>>点云初始数据存储完成！
+2025/01/04 15:04:39.130>>后端计算正常0
+2025/01/04 15:04:39.172>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+1.100967	-1.476259	5.002103	388.101	-2.476259	-194.9979	0.03803922	0.3358591	0.6448081
+2025/01/04 15:05:59.406>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:05:59.454>>执行TRA_Scan
+2025/01/04 15:05:59.753>>相机触发拍照完成！
+2025/01/04 15:06:05.547>>点云初始数据存储完成！
+2025/01/04 15:06:10.025>>后端计算正常0
+2025/01/04 15:06:10.072>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-5.795804	20.45487	5.794154	381.2042	19.45487	-194.2058	-0.14205	0.008998438	-0.03420802
+2025/01/04 15:07:26.853>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:07:26.904>>执行TRA_Scan
+2025/01/04 15:07:27.186>>相机触发拍照完成！
+2025/01/04 15:07:33.020>>点云初始数据存储完成！
+2025/01/04 15:07:37.429>>后端计算正常0
+2025/01/04 15:07:37.464>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-10.77022	-4.831877	6.628206	376.2298	-5.831877	-193.3718	-0.7900219	-0.03053929	0.7493169
+2025/01/04 15:13:26.701>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:13:26.750>>执行TRA_Scan
+2025/01/04 15:13:27.038>>相机触发拍照完成！
+2025/01/04 15:13:33.330>>点云初始数据存储完成！
+2025/01/04 15:13:37.774>>后端计算正常0
+2025/01/04 15:13:37.800>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+4.546875	1.694338	3.218795	391.5469	0.6943381	-196.7812	0.1647944	0.4453827	0.2436419
+2025/01/04 15:14:59.696>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:14:59.745>>执行TRA_Scan
+2025/01/04 15:15:00.001>>相机触发拍照完成！
+2025/01/04 15:15:06.258>>点云初始数据存储完成！
+2025/01/04 15:15:10.573>>后端计算正常0
+2025/01/04 15:15:10.614>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+1.075205	-1.494734	4.813672	388.0752	-2.494734	-195.1863	0.01973137	0.3349162	0.6511261
+2025/01/04 15:16:31.850>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:16:31.897>>执行TRA_Scan
+2025/01/04 15:16:32.259>>相机触发拍照完成！
+2025/01/04 15:16:38.217>>点云初始数据存储完成！
+2025/01/04 15:16:42.664>>后端计算正常0
+2025/01/04 15:16:42.711>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-5.835372	20.19386	5.83902	381.1646	19.19386	-194.161	-0.1193261	0.001586441	-0.02794357
+2025/01/04 15:17:59.294>>25Kg-接收拍照请求信号Car1_Request=1
+2025/01/04 15:17:59.343>>执行TRA_Scan
+2025/01/04 15:17:59.628>>相机触发拍照完成！
+2025/01/04 15:18:08.475>>点云初始数据存储完成！
+2025/01/04 15:18:12.975>>后端计算正常0
+2025/01/04 15:18:13.017>>坐标发送完成！ 智能检测站X,Y,Z,real_X,real_Y,real_Z,rx,ry,rz: 
+-10.74619	-4.875191	6.802938	376.2538	-5.875191	-193.1971	-0.8070178	-0.02637307	0.7510269

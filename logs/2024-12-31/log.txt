@@ -1,0 +1,16 @@
+﻿2024/12/31 11:06:08.505>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 11:06:18.579>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 11:08:09.805>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 11:08:18.793>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 11:13:46.751>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 11:13:55.936>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 11:14:32.912>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 11:16:23.148>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 14:55:45.416>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 14:55:54.044>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 15:01:53.180>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 15:04:31.887>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 15:07:36.965>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 15:08:06.051>>pho.api.csharp.PhoXiply文件保存成功
+2024/12/31 15:08:49.211>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2024/12/31 15:09:01.453>>pho.api.csharp.PhoXiply文件保存成功

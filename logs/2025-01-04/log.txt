@@ -1,0 +1,2 @@
+﻿2025/01/04 18:58:38.035>>Can't connect to device:DirectConnection-CR-35iB
+2025/01/04 19:07:41.527>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件

@@ -1,0 +1,70 @@
+﻿2025/01/15 13:01:24.814>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:01:38.033>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:02:14.394>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:03:41.317>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:04:15.601>>DirectConnection-CR-35iBConnection to the device  was Unsuccessful
+2025/01/15 13:04:15.602>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:04:27.039>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:04:53.993>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:05:10.749>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:05:14.574>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:05:14.577>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:05:14.582>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:05:14.582>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:05:19.170>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:05:19.171>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:05:19.173>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:05:19.173>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:05:20.083>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:05:20.084>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:05:20.086>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:05:20.087>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:05:22.438>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:05:22.440>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:05:22.442>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:05:22.442>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:05:25.135>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:05:25.137>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:05:25.138>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:05:25.139>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:05:46.202>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:06:07.180>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:07.182>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:07.183>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:07.183>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:06:10.115>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:10.117>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:10.118>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:10.119>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:06:11.345>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:11.346>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:11.347>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:11.349>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:06:14.138>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:14.140>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:14.141>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:14.142>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:06:31.525>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:06:44.501>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:44.502>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:44.504>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:44.505>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:06:45.824>>pho.api.csharp.PhoXiMyScan 开始获取 ply文件
+2025/01/15 13:06:45.825>>pho.api.csharp.PhoXi 设备未处于软件触发模式; 已切换到软件触发模式 
+2025/01/15 13:06:45.827>>pho.api.csharp.PhoXi开始采集出错
+2025/01/15 13:06:45.828>>pho.api.csharp.PhoXi设备未获取
+2025/01/15 13:07:42.561>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:08:18.241>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:08:30.513>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:08:34.845>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:09:23.525>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:09:30.162>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:09:45.468>>DirectConnection-CR-35iBConnection to the device  was Unsuccessful
+2025/01/15 13:09:45.469>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:10:42.401>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:11:05.905>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:20:23.122>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:22:40.098>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:22:43.916>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:24:22.074>>Can't connect to device:DirectConnection-CRX-25iA
+2025/01/15 13:30:36.222>>Can't connect to device:DirectConnection-CRX-25iA
